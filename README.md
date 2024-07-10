@@ -4,6 +4,7 @@
 1. Ping a Web Address to Test Connection
 
 • Press **Windows + R** to open the Run dialog.
+
 • Type cmd and press **Enter** to open Command Prompt.
 <p align="center">
   <img src="https://github.com/KamelAdjei/Test-Connection-Using-Ping/assets/34016698/33d25ae5-e05e-474f-88d4-ce10ff3bb276" alt="Ping"/>
