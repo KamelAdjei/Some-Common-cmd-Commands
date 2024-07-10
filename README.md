@@ -9,7 +9,7 @@
   <img src="https://github.com/KamelAdjei/Test-Connection-Using-Ping/assets/34016698/33d25ae5-e05e-474f-88d4-ce10ff3bb276" alt="Ping"/>
 </p>
 
-• Type the command **ping** and web address (google.com) and press **Enter**
+• Type the command **ping** and web address _(google.com)_ and press **Enter**
 <p align="center">
   <img src="https://github.com/KamelAdjei/Test-Connection-Using-Ping/assets/34016698/536d7979-1ab9-4f55-a1bd-6a6f9f778eb4" alt="Ping"/>
 </p>
